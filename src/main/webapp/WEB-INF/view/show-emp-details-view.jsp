@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Showing with change</title>
 </head>
 <body>
 
@@ -18,6 +18,6 @@
 
 <%--Your name: ${param.employeeName}--%>
 
-Your name: ${nameAttribute} ${description}
+Your name: ${nameAttribute}
 </body>
 </html>
